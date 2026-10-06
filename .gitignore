@@ -3,4 +3,6 @@ thumbs.jpg
 dl.tsv
 node_modules/
 sorgenti/
-
+foto-cliente/
+copy-foto.sh
+process-foto.sh
